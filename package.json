@@ -1,6 +1,6 @@
 {
-  "name": "utkds-framework",
-  "version": "1.0.0",
+  "name": "utkds-framework-mat",
+  "version": "1.0.1",
   "description": "A user interface framework based upon Bootstrap for designing site at the Unversity of Tennessee, Knoxville.",
   "main": "gulpfile.js",
   "scripts": {
@@ -13,6 +13,10 @@
   "keywords": [
     "Bootstrap"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.utk.edu/ocm/utksds-framework"
+  },
   "author": "OCM",
   "license": "ISC",
   "dependencies": {
